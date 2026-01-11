@@ -1,14 +1,21 @@
 :root {
-  --primary: #2fbf71;
-  --primary-010: #21804d;
+  --primary: #240f74;
+  --primary-010: #190f3d;
 
   --secondary: #06628a;
   --secondary-010: #06374e;
 
+  --terciary-gradient: linear-gradient(
+    -45deg,
+    #020024,
+    #090979,
+    #2c003e
+  );
+
   --white: #fff;
 
   --black: #10101a;
-  --black-010: #2a2a30;
+  --black-010: #3c3c66;
 
   --grey: #9b9ba0;
 }
