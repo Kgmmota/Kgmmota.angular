@@ -25,16 +25,16 @@ export class ProjectsComponent {
   public arrayProjects = signal<IProjects[]>([
     {
       src: 'assets/img/projects/vfull.png',
-      alt: 'Projeto Vida FullStack',
-      title: 'Vida FullStack',
+      alt: 'Projeto Lista de Tarefa',
+      title: 'Lista de Tarefa 1.0',
       with: '100px',
       height: '51px',
       description:
-        '<p>Explore o fascinante mundo do desenvolvimento web no meu blog dedicado exclusivamente ao ecossistema Angular, Front-end, JavaScript, Node.js e TypeScript.</p> <p>Desvende os segredos por trás da construção de interfaces modernas, aprimore suas habilidades de programação front-end quanto back-end e mergulhe em conceitos avançados de JavaScript e TypeScript.</p>',
+        '<p>Explore o meu projeto de uma Lista de tarefas que exploram recursos do ecossistema Angular, Front-end, JavaScript e TypeScript, auxiliado pelo programa de treinee da empresa junior Asimov.Jr.</p>',
       links: [
         {
-          name: 'Conheça o Blog',
-          href: 'https://vidafullstack.com.br',
+          name: 'Conheça a lista de Tarefas',
+          href: 'http://localhost:54021/',
         },
       ],
     },
