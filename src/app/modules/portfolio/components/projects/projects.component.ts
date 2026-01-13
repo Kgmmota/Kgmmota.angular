@@ -24,7 +24,7 @@ export class ProjectsComponent {
 
   public arrayProjects = signal<IProjects[]>([
     {
-      src: 'assets/img/projects/vfull.png',
+      src: 'assets/img/task-list-null.png',
       alt: 'Projeto Lista de Tarefa',
       title: 'Lista de Tarefa 1.0',
       with: '100px',
