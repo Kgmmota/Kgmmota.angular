@@ -34,7 +34,7 @@ export class ProjectsComponent {
       links: [
         {
           name: 'Conheça a lista de Tarefas',
-          href: 'http://localhost:54021/',
+          href: 'http://localhost:49971/',
         },
       ],
     },
